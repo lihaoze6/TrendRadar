@@ -8,23 +8,29 @@ Google
 DeepMind
 Anthropic
 Perplexity
-AI Agent
+Grok
+Zenmux
+AI
+Agent
 !gai
 !培训
 !课程
-@15
+@20
+
 
 Kimi
 MiniMax
 DeepSeek
 Qwen
+千问
 豆包
-Zenmux
 阿里
 字节
+bytedance
 腾讯
 百度
-+大模型
+美团
++AI
 !股价
 @10
 
@@ -44,8 +50,12 @@ HarmonyOS
 华为手表
 华为手机
 华为平板
+数码评测
+!广告
 !二手
 
+
+苹果
 iphone
 ipad
 mac
@@ -57,12 +67,19 @@ ios
 小米
 雷军
 OPPO
-Vivo
+ViVO
+荣耀
 电脑
 数码
 !广告
 !二手
 !维修
+
+
+谷歌
+微软
+Microsoft
+
 
 英伟达
 NVIDIA
@@ -83,33 +100,45 @@ DJI
 !客服机器人
 
 
+地理
+人文地理
+自然地理
+世界遗产
+国家公园
+古迹
+!考研
+!教材
+
+
 摄影
 相机
 镜头
 索尼
 佳能
 尼康
+大疆
 !手机
+
+
+城市
+城市化
+城市群
+都市圈
+区域规划
+!房价
+!楼盘
+!招聘
+
 
 电影
 +预告
 +票房
-+定档
 !影评
 !下载
 !解析
 
+
 科技
-新质生产-力
+新质生产力
 国产
-中国
-
-
-字节
-bytedance
-腾讯
-阿里
-京东
-刘强东
-微软
-Microsoft
+能源
