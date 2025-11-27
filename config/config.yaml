@@ -115,6 +115,8 @@ platforms:
     name: "IT之家"
   - id: "juejin"
     name: "掘金"
+  - id: "coolapk"
+    name: "酷安"
   - id: "github"
     name: "GitHub"
   - id: "nowcoder"
