@@ -103,6 +103,8 @@ platforms:
     name: "百度热搜"
   - id: "wallstreetcn-hot"
     name: "华尔街见闻"
+  - id: "wallstreetcn-news"
+    name: "华尔街见闻 最新"
   - id: "bilibili-hot-search"
     name: "bilibili 热搜"
   - id: "cls-hot"
